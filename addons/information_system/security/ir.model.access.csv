@@ -1,0 +1,4 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+information_system.access_information_system_product,access_information_system_product,information_system.model_information_system_product,base.group_user,1,1,1,1
+information_system.access_information_system_act,access_information_system_act,information_system.model_information_system_act,base.group_user,1,1,1,1
+information_system.access_information_system_warehouse,access_information_system_warehouse,information_system.model_information_system_warehouse,base.group_user,1,1,1,1

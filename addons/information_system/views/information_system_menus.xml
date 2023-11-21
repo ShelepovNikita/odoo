@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="information_system_menu_root" name="Information system">
+        <menuitem id="products_menu" name="List products">
+            <menuitem id="product_menu_action" action="product_action" name="Products"/>
+        </menuitem>
+        <menuitem id="acts_menu" name="List acts">
+            <menuitem id="act_menu_action" action="act_action" name="Acts"/>
+        </menuitem>
+    </menuitem>
+</odoo>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="product_action" model="ir.actions.act_window">
+        <field name="name">Product action</field>
+        <field name="res_model">information.system.product</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+    <record id="act_action" model="ir.actions.act_window">
+        <field name="name">Act action</field>
+        <field name="res_model">information.system.act</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+</odoo>
